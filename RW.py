@@ -1,7 +1,7 @@
 # Intento de RW
 """
 deltaV = a*b(lambda-Vtot)
-sin competencia de estímulos -> deltaV = k (lambda-V)
+sin competencia de estímulo -> deltaV = k (lambda-V)
 """
 import numpy as np
 import matplotlib.pyplot as plt 
